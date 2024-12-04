@@ -1,0 +1,4 @@
+mongodb credientials 
+
+password - bHXYw4QQYo0nPt0d
+mongodb+srv://omarlu86:bHXYw4QQYo0nPt0d@cluster0.x8w9a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
